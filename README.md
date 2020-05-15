@@ -10,11 +10,11 @@ Enter the currency in NRS (Nepali Rupees) in the currency text box and select on
 
 ## Screenshots
 
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/d1rmq6Cn/Screenshot-from-2019-08-02-13-26-38.png" alt="Screenshot-from-2019-08-02-13-26-38"/></a><br/><br/>
+<img src="https://i.postimg.cc/d1rmq6Cn/Screenshot-from-2019-08-02-13-26-38.png" alt="Screenshot-from-2019-08-02-13-26-38"/></a><br/><br/>
 
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/yxKhWRXK/Screenshot-from-2019-08-02-13-26-53.png" alt="Screenshot-from-2019-08-02-13-26-53"/></a><br/><br/>
+<img src="https://i.postimg.cc/yxKhWRXK/Screenshot-from-2019-08-02-13-26-53.png" alt="Screenshot-from-2019-08-02-13-26-53"/></a><br/><br/>
 
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/SRG69KDM/Screenshot-from-2019-08-02-13-27-21.png" alt="Screenshot-from-2019-08-02-13-27-21"/></a><br/><br/>
+<img src="https://i.postimg.cc/SRG69KDM/Screenshot-from-2019-08-02-13-27-21.png" alt="Screenshot-from-2019-08-02-13-27-21"/></a><br/><br/>
 
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/1R0c2Ws3/Screenshot-from-2019-08-02-13-27-49.png" alt="Screenshot-from-2019-08-02-13-27-49"/></a><br/><br/>
+<img src="https://i.postimg.cc/1R0c2Ws3/Screenshot-from-2019-08-02-13-27-49.png" alt="Screenshot-from-2019-08-02-13-27-49"/></a><br/><br/>
 
